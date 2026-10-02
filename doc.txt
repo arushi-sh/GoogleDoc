@@ -1,0 +1,4 @@
+Hello, world!
+This is a real-world doc editor LLD example.
+	Indented text after a tab space.
+[Image:image.jpg]
